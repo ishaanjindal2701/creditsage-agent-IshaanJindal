@@ -1,0 +1,21 @@
+product_id,title,stock_level,reorder_point,warehouse_location,last_restock_date,supplier,lead_time_days
+B001,A Light in the Attic,45,20,WH-A1,2024-02-15,BookSupply Co,7
+B002,Tipping the Velvet,12,15,WH-A2,2024-02-10,LitDistributors,5
+B003,Soumission,8,10,WH-A1,2024-02-01,EuroBooks,10
+B004,Sharp Objects,67,25,WH-B1,2024-02-20,BookSupply Co,7
+B005,Sapiens: A Brief History of Humankind,3,30,WH-B2,2024-01-15,BigBooks Inc,14
+B006,The Requiem Red,89,20,WH-A3,2024-02-18,YAPublishers,5
+B007,The Dirty Little Secrets of Getting Your Dream Job,34,15,WH-C1,2024-02-12,CareerBooks,7
+B008,The Coming Woman,156,30,WH-A1,2024-02-22,LitDistributors,5
+B009,The Boys in the Boat,5,20,WH-B1,2024-01-28,SportBooks,10
+B010,The Black Maria,28,15,WH-A2,2024-02-14,PoetryPress,7
+B011,Starving Hearts,234,50,WH-C2,2024-02-21,RomanceReads,3
+B012,Shakespeares Sonnets,42,20,WH-A1,2024-02-16,ClassicBooks,5
+B013,Set Me Free,18,15,WH-A3,2024-02-08,YAPublishers,5
+B014,Scott Pilgrims Precious Little Life,7,25,WH-D1,2024-01-20,ComicDistro,14
+B015,Rip It Up and Start Again,31,15,WH-C1,2024-02-13,MusicBooks,7
+B016,Our Band Could Be Your Life,2,10,WH-C1,2024-01-10,MusicBooks,7
+B017,Olio,56,20,WH-A2,2024-02-19,PoetryPress,7
+B018,Mesaerion: The Best Science Fiction Stories,23,15,WH-D2,2024-02-11,SciFiBooks,10
+B019,Libertarianism for Beginners,4,15,WH-B2,2024-01-25,EducationBooks,7
+B020,Its Only the Himalayas,15,10,WH-C2,2024-02-05,TravelReads,5
